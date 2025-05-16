@@ -1,0 +1,6 @@
+@GridApp_HostAddress = http://patriciaalhost:5272
+
+GET {{GridApp_HostAddress}}/GridDetail
+Accept: application/json
+
+###
